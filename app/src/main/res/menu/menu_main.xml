@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/norm_level"
+        android:title="@string/normal_level"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+    <item android:id="@+id/hard_level"
+        android:title="@string/hard_level"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+    <item android:id="@+id/up_image"
+        android:title="@string/upload_image"
+        android:orderInCategory="3"
+        app:showAsAction="never" />
+    <item android:id="@+id/color_picker"
+        android:title="@string/pick_color"
+        android:orderInCategory="4"
+        app:showAsAction="never" />
+</menu>

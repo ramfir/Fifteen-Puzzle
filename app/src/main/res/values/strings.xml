@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fifteen Puzzle</string>
+    <string name="welcome">Welcome to the Fifteen puzzle</string>
+    <string name="hints">Hints</string>
+    <string name="confirm">ok</string>
+    <string name="cancel">no</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="normal_level">Normal level</string>
+    <string name="hard_level">Hard level</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="pick_color">Pick color</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
